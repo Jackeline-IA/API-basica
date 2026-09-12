@@ -69,4 +69,4 @@ Accede en `/admin/` con el superusuario creado, para gestionar todos los modelos
 
 ## 👤 Autor
 
-Desarrollado como taller de la materia Desarrollo Web — Tecnológico de Antioquia.
+Desarrollado por Grupo 2 de Trabajo Presentes en el día 12/09/2026
